@@ -1,8 +1,10 @@
 # LegendaryCore
 WoW WotLK Legendary Core Emulator Release
 Or download full repack from the following link
+# 106
 https://www.mediafire.com/file/cv245t30n5oulne
-
+#107
+https://www.mediafire.com/file/en6qrtpv3w7hihh
 
 https://github.com/Abd-ulRahman/LegendaryCore/assets/1366228/a5af6480-2655-4068-8def-95572c6e5466
 
