@@ -8,7 +8,8 @@ https://www.mediafire.com/file/cv245t30n5oulne
 * 107
 https://www.mediafire.com/file/en6qrtpv3w7hihh
 
-* 108 comming soon with code cleanup and refine
+* 108
+https://www.mediafire.com/file/k92kjjim54i8ud3
 
 https://github.com/Abd-ulRahman/LegendaryCore/assets/1366228/65a530db-b159-4c49-847f-ab482eb3d19f
 
