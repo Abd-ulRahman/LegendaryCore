@@ -1,3 +1,3 @@
 To Do
 Found conflict between the creatue Frostbrood Vanquisher - 28670 for Quest "An End To All Things..." - 12779
-And The Eye Of Acherus - 28511 for Quest "Death Comes From On High." 12641 InshAllah it'll resolved in the next release
+And The Eye Of Acherus - 28511 for Quest "Death Comes From On High." 12641 InshAllah it'll be resolved in the next release
