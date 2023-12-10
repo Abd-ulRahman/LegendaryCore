@@ -1,2 +1,5 @@
 To Do
-Previous crash still active
+All Done Will be released assp single player repack
+- More stable
+- Less Crash if there is any
+- Shroud Spell "52006" scripted
